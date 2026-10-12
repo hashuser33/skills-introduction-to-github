@@ -1,2 +1,0 @@
-teksttekst
-tek1
